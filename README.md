@@ -1,4 +1,4 @@
-# 🏛️ ok legislation file tree
+# 🏛️ Oklahoma legislation file tree
 
 Download a copy of your states legislation.
 
