@@ -134,6 +134,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3014": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB840": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -158,6 +163,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1492": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1116": {
     "session_id": "2025",
@@ -689,6 +699,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3015": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1292": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -755,6 +770,11 @@
     "date_folder": "2025-2025"
   },
   "SB1288": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "HB3001": {
     "session_id": "2026",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
@@ -873,6 +893,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB2995": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB1446": {
     "session_id": "2026",
@@ -1223,6 +1248,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1493": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1991": {
     "session_id": "2025",
@@ -1804,6 +1834,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3013": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1559": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -1888,6 +1923,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3003": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2894": {
     "session_id": "2025",
@@ -4414,6 +4454,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1505": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1837": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -4794,6 +4839,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3006": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SCR11": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -4883,6 +4933,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1507": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2762": {
     "session_id": "2025",
@@ -5314,6 +5369,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1491": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1456": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -5408,6 +5468,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1487": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2644": {
     "session_id": "2025",
@@ -6338,6 +6403,16 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1494": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "HB3010": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2121": {
     "session_id": "2025",
@@ -7889,6 +7964,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "HB3007": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2956": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -8234,6 +8314,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1488": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2043": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -8328,6 +8413,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3009": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2531": {
     "session_id": "2025",
@@ -8618,6 +8708,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1502": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1079": {
     "session_id": "2025",
@@ -10054,6 +10149,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3004": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1804": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -10359,6 +10459,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3005": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2759": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -10428,6 +10533,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1490": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1824": {
     "session_id": "2025",
@@ -10508,6 +10618,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1498": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB95": {
     "session_id": "2025",
@@ -10859,6 +10974,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SB1500": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1460": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -11038,6 +11158,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB2996": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB188": {
     "session_id": "2025",
@@ -11864,6 +11989,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1489": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB646": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -12063,6 +12193,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1501": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2960": {
     "session_id": "2026",
@@ -13379,6 +13514,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1497": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1305": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -13839,6 +13979,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HJR1041": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2378": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -13938,6 +14083,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1499": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1657": {
     "session_id": "2025",
@@ -14264,6 +14414,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1495": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2652": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -14524,6 +14679,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1486": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2310": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -14683,6 +14843,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3012": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2881": {
     "session_id": "2025",
@@ -15039,6 +15204,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB3008": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB74": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -15093,6 +15263,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3011": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1957": {
     "session_id": "2025",
@@ -15174,6 +15349,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB2999": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2256": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -15238,6 +15418,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1503": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB154": {
     "session_id": "2025",
@@ -15323,6 +15508,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1496": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1533": {
     "session_id": "2025",
@@ -15764,6 +15954,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SB1508": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2784": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -15793,6 +15988,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1506": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1961": {
     "session_id": "2025",
@@ -15913,6 +16113,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3016": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1902": {
     "session_id": "2025",
@@ -16228,6 +16433,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3002": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SR14": {
     "session_id": "2025",
@@ -16869,6 +17079,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HJR1043": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB1042": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -16953,6 +17168,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB2997": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1084": {
     "session_id": "2025",
@@ -17068,6 +17288,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3017": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB1047": {
     "session_id": "2025",
@@ -17189,6 +17414,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HJR1042": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB564": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -17213,6 +17443,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SB1504": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB1183": {
     "session_id": "2025",
@@ -17904,6 +18139,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HB2998": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB1925": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -17943,6 +18183,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HB3000": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB253": {
     "session_id": "2025",
