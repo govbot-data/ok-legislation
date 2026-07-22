@@ -1,0 +1,429 @@
+Title: 
+Official Title: 
+Source: versions - HB2017 (4-29-26) (SEIFRIED) FS FA1.PDF
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 STATE OF OKLAHOMA
+2 2nd Session of the 60th Legislature (2026)
+3 FLOOR SUBSTITUTE
+FOR ENGROSSED
+4 HOUSE BILL NO. 2017 By: Pae and Dollens of the
+House
+5
+and
+6
+Seifried of the Senate
+7
+8
+9 FLOOR SUBSTITUTE
+10 [ electronic communications - constitutional and
+lawful applicability - incidents of bullying -
+11 anonymous reports - immunity - notification - policy
+- notice of hearing - report - effective date ]
+12
+13
+14
+15 BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+16 SECTION 1. AMENDATORY 21 O.S. 2021, Section 813, as
+17 amended by Section 44, Chapter 486, O.S.L. 2025 (21 O.S. Supp. 2025,
+18 Section 813), is amended to read as follows:
+19 Section 813. Every person who willfully, in any manner,
+20 advises, encourages, abets, or assists another person in taking his
+21 or her own life, is guilty of aiding suicide, a Class B1 felony
+22 offense.
+23
+24
+Req. No. 4011 Page 1
+
+1 SECTION 2. AMENDATORY 21 O.S. 2021, Section 1172, as
+2 amended by Section 404, Chapter 486, O.S.L. 2025 (21 O.S. Supp.
+3 2025, Section 1172), is amended to read as follows:
+4 Section 1172. A. It shall be unlawful for a person who, by
+5 means of a telecommunication or other electronic communication
+6 device, willfully either to knowingly terrify, intimidate, threaten,
+7 or harass a specific person by:
+8 1. Makes Directing any comment, request, suggestion, or
+9 proposal which is obscene, lewd, lascivious, filthy, or indecent to
+10 such person;
+11 2. Makes Making a telecommunication or other electronic
+12 communication including text, sound, or images with intent to
+13 terrify, intimidate or harass, or threaten to inflict injury or
+14 physical harm to any such person or property of that such person;
+15 3. Makes Making a telecommunication or other electronic
+16 communication, whether or not conversation ensues, with intent to
+17 put the party person called in fear of physical harm or death;
+18 4. Makes a telecommunication or other electronic communication,
+19 including text, sound or images whether or not conversation ensues,
+20 without disclosing the identity of the person making the call or
+21 communication and Disturbing by repeated, unwanted, or unsolicited
+22 electronic communications with intent to annoy, abuse, threaten, or
+23 harass any the person at the called number location where the
+24 communication was received;
+Req. No. 4011 Page 2
+
+1 5. Knowingly permits permitting any telecommunication or other
+2 electronic communication under the control of the person to be used
+3 for any purpose prohibited by this section; and
+4 6. In conspiracy or concerted action with other persons, makes
+5 making repeated calls or electronic communications or simultaneous
+6 calls or electronic communications solely to harass any person at
+7 the called number(s) number or numbers.
+8 B. As used in this section, “telecommunication” and “electronic
+9 communication” mean any type of telephonic, electronic, or radio
+10 communications, or transmission of signs, signals, data, writings,
+11 images and sounds, or intelligence of any nature by telephone,
+12 including cellular telephones, wire, cable, radio, electromagnetic,
+13 photoelectronic, or photo-optical system or the creation, display,
+14 management, storage, processing, transmission, or distribution of
+15 images, text, voice, video, or data by wire, cable, or wireless
+16 means, including the Internet. The term includes:
+17 1. A communication initiated by electronic mail, instant
+18 message, network call, or facsimile machine including text, sound,
+19 or images;
+20 2. A communication made to a pager; or
+21 3. A communication including text, sound, or images posted to a
+22 social media or other public media source that is directed at a
+23 specific person.
+24
+Req. No. 4011 Page 3
+
+1 C. Use of a telephone or other electronic communications
+2 facility under this section shall include all use made of such a
+3 facility between the points of origin and reception. Any offense
+4 under this section is a continuing offense and shall be deemed to
+5 have been committed at either the place of origin or the place of
+6 reception.
+7 D. Except as provided in subsection E of this section, any
+8 person who is convicted of any of the provisions of subsection A of
+9 this section, shall be guilty of a misdemeanor.
+10 E. Any person who is convicted of a second offense under this
+11 section shall be guilty of a Class D1 felony offense and shall be
+12 punished by imprisonment as provided for in subsections B through F
+13 of Section 20N of this title.
+14 SECTION 3. AMENDATORY 21 O.S. 2021, Section 1953, as
+15 amended by Section 260, Chapter 486, O.S.L. 2025 (21 O.S. Supp.
+16 2025, Section 1953), is amended to read as follows:
+17 Section 1953. A. It shall be unlawful to:
+18 1. Willfully, and without authorization, gain or attempt to
+19 gain access to and damage, modify, alter, delete, destroy, copy,
+20 make use of, use malicious computer programs on, disclose or take
+21 possession of a computer, computer system, computer network, data or
+22 any other property;
+23 2. Use a computer, computer system, computer network or any
+24 other property as hereinbefore defined for the purpose of devising
+Req. No. 4011 Page 4
+
+1 or e xecuting a scheme or artifice with the intent to defraud,
+2 deceive, extort or for the purpose of controlling or obtaining
+3 money, property, data, services or other thing of value by means of
+4 a false or fraudulent pretense or representation;
+5 3. Willfully exceed the limits of authorization and damage,
+6 modify, alter, destroy, copy, delete, disclose or take possession of
+7 a computer, computer system, computer network, data or any other
+8 property;
+9 4. Willfully and without authorization, gain or attempt to gain
+10 access to a computer, computer system, computer network, data or any
+11 other property;
+12 5. Willfully and without authorization use or cause to be used
+13 computer services;
+14 6. Willfully and without authorization disrupt or cause the
+15 disruption of computer services or deny or cause the denial of
+16 access or other computer services to an authorized user of a
+17 computer, computer system or computer network, other than an
+18 authorized entity acting for a legitimate business purpose with the
+19 effective consent of the owner;
+20 7. Willfully and without authorization provide or assist in
+21 providing a means of accessing a computer, computer system, data or
+22 computer network in violation of this section;
+23
+24
+Req. No. 4011 Page 5
+
+1 8. Willfully use a computer, computer system, or computer
+2 network, or other electronic device or system to annoy, abuse,
+3 threaten, or harass another person;
+4 9. Willfully use a computer, computer system, or computer
+5 network, or other electronic device or system to put another person
+6 in fear of physical harm or death; and
+7 10. Willfully solicit another, regardless of any financial
+8 consideration or exchange of property, of any acts described in
+9 paragraphs 1 through 9 of this subsection.
+10 B. Any person convicted of violating paragraph 1, 2, 3, 6, 7, 9
+11 or 10 of subsection A of this section shall be guilty of a Class C2
+12 felony offense punishable as provided in Section 1955 of this title.
+13 C. Any person convicted of violating paragraph 4, 5 or 8 of
+14 subsection A of this section shall be guilty of a misdemeanor.
+15 D. Nothing in the Oklahoma Computer Crimes Act shall be
+16 construed to prohibit the monitoring of computer usage of, or the
+17 denial of computer or Internet access to, a child by a parent, legal
+18 guardian, legal custodian, or foster parent. As used in this
+19 subsection, “child” shall mean any person less than eighteen (18)
+20 years of age.
+21 E. Nothing in the Oklahoma Computer Crimes Act shall be
+22 construed to prohibit testing by an authorized entity, the purpose
+23 of which is to provide to the owner or operator of the computer,
+24 computer system or computer network an evaluation of the security of
+Req. No. 4011 Page 6
+
+1 the computer, computer system or computer network against real or
+2 imagined threats or harms.
+3 F. Nothing in the Oklahoma Computer Crimes Act shall be
+4 construed to apply to constitutionally protected speech or activity
+5 or to any other activity authorized by law.
+6 SECTION 4. AMENDATORY 70 O.S. 2021, Section 24-100.3, is
+7 amended to read as follows:
+8 Section 24-100.3. A. As used in the School Safety and Bullying
+9 Prevention Act:
+10 1. “Bullying” means any pattern of harassment, intimidation,
+11 threatening behavior, physical acts, or verbal or electronic
+12 communication directed toward a student or group of students that
+13 results in or is reasonably perceived as being done with the intent
+14 to cause negative educational or physical results for the targeted
+15 individual or group and is communicated in such a way as to disrupt
+16 or interfere with the school’s educational mission or the education
+17 of any student;
+18 2. “At school” means on school grounds, in school vehicles, at
+19 school-sponsored activities, or at school-sanctioned events;
+20 3. “Electronic communication” means the communication of any
+21 written, verbal, or pictorial information or video content by means
+22 of an electronic device, including, but not limited to, a telephone,
+23 a mobile or cellular telephone or other wireless telecommunication
+24 device, or a computer; and
+Req. No. 4011 Page 7
+
+1 3. “On school premises” means on school grounds, in school
+2 vehicles, at school-sponsored activities, or at school-sanctioned
+3 events; and
+4 4. “Threatening behavior” means any pattern of behavior or
+5 isolated action, whether or not it is directed at another person,
+6 that a reasonable person would believe indicates potential for
+7 future harm to students, school personnel, or school property.
+8 B. Nothing in this act Section 24-100.2 et seq. of this title
+9 shall be construed to impose a specific liability on any school
+10 district.
+11 SECTION 5. AMENDATORY 70 O.S. 2021, Section 24-100.4, as
+12 amended by Section 6, Chapter 15, O.S.L. 2023 (70 O.S. Supp. 2025,
+13 Section 24-100.4), is amended to read as follows:
+14 Section 24-100.4. A. Each public school district board of
+15 education shall adopt a policy for the discipline of all children
+16 attending public school in that district, and for the investigation
+17 of reported incidents of bullying. The policy shall provide options
+18 for the discipline of the students and shall define standards of
+19 conduct to which students are expected to conform. The policy
+20 shall:
+21 1. Specifically address bullying by students at school on
+22 school premises and by electronic communication, if the
+23 communication is specifically directed at students or school
+24 personnel and concerns bullying at school disrupts or interferes
+Req. No. 4011 Page 8
+
+1 with the school’s educational mission or the education of any
+2 student;
+3 2. Contain a procedure for reporting a student, a school
+4 employee, a school volunteer, or a parent or legal guardian of a
+5 student to report an act of bullying to a school official or law
+6 enforcement agency, including a provision that permits a person to
+7 report an act anonymously. No formal disciplinary action shall be
+8 taken solely on the basis of an anonymous report;
+9 3. Contain a requirement that any school employee that has
+10 reliable information that would lead a reasonable person to suspect
+11 that a person is a target of bullying shall immediately report it to
+12 the principal or a designee of the principal. A school employee, a
+13 school volunteer, a student, or the parent or legal guardian of a
+14 student who promptly reports in good faith an incident of bullying
+15 to a school official and who makes the report in compliance with the
+16 provisions of this section shall be immune from a cause of action
+17 for damages arising out of the reporting itself or any failure to
+18 remedy the reported incident of bullying;
+19 4. Contain a statement of how the policy is to be publicized
+20 including a requirement that:
+21 a. an annual written notice of the policy be provided to
+22 parents, legal guardians, staff, volunteers, and
+23 students, with age-appropriate language for students,
+24
+Req. No. 4011 Page 9
+
+1 b. notice of the policy be posted at various locations
+2 within each school site, including, but not limited
+3 to, cafeterias, school bulletin boards, and
+4 administration offices,
+5 c. the policy be posted on the Internet website for the
+6 school district and each school site that has an
+7 Internet website, and
+8 d. the policy be included in all student and employee
+9 handbooks;
+10 5. Require that appropriate school district personnel involved
+11 in investigating reports of bullying make a determination regarding
+12 whether the conduct is actually occurring;
+13 6. Contain a procedure and requirement for providing
+14 notification to the parent or legal guardian of the reported victim
+15 of bullying and the parent or legal guardian of the reported
+16 perpetrator of the bullying within twenty-four (24) hours of receipt
+17 of the report of bullying and providing timely notification to the
+18 parents parent or guardians legal guardian of a victim of documented
+19 and verified bullying and to the parents parent or guardians legal
+20 guardian of the perpetrator of the documented and verified bullying;
+21 provided, if a student expresses suicidal thoughts or intentions or
+22 encourages another student to commit suicide, the parent or legal
+23 guardian of the student or students shall be notified immediately;
+24
+Req. No. 4011 Page 10
+
+1 7. Identify by job title the school official responsible for
+2 enforcing the policy at each school site within a school district;
+3 8. Contain procedures for reporting to law enforcement all
+4 documented and verified acts of bullying which may constitute
+5 criminal activity or reasonably have the potential to endanger
+6 school safety;
+7 9. Require training for administrators and school employees
+8 including school resource officers as developed and provided by the
+9 State Department of Education in preventing, identifying, responding
+10 to, and reporting incidents of bullying. The training shall be
+11 completed the first year an administrator or school employee is
+12 employed by a school district, and then once every fifth academic
+13 year thereafter;
+14 10. Provide for an educational program as designed and
+15 developed by the State Department of Education and in consultation
+16 with the Office of Juvenile Affairs for students and parents in
+17 preventing, identifying, responding to, and reporting incidents of
+18 bullying;
+19 11. Establish a procedure for referral of a person who commits
+20 an act of bullying to a delinquency prevention and diversion program
+21 administered by the Office of Juvenile Affairs;
+22 12. Address prevention by providing:
+23 a. consequences and remedial action for a person who
+24 commits an act of bullying,
+Req. No. 4011 Page 11
+
+1 b. consequences and remedial action for a student found
+2 to have falsely accused another as a means of
+3 retaliation, reprisal, or as a means of bullying, and
+4 c. a strategy for providing counseling or referral to
+5 appropriate services, including guidance, academic
+6 intervention, and other protection for students, both
+7 targets and perpetrators, and family members affected
+8 by bullying, as necessary;
+9 13. Establish a procedure for:
+10 a. the investigation, determination, and documentation of
+11 all incidents of bullying reported to school
+12 officials,
+13 b. identifying the principal or a designee of the
+14 principal as the person responsible for investigating
+15 incidents of bullying,
+16 c. reporting the number of incidents of bullying, and
+17 d. determining the severity of the incidents and their
+18 potential to result in future violence;
+19 14. Establish a procedure whereby, upon completing an
+20 investigation of bullying, a school may recommend that available
+21 community mental health care, substance abuse, or other counseling
+22 options be provided to the student, if appropriate; and
+23 15. Establish a procedure whereby a school may request the
+24 disclosure of any information concerning students who have received
+Req. No. 4011 Page 12
+
+1 ment al health, substance abuse, or other care pursuant to paragraph
+2 14 of this subsection that indicates an explicit threat to the
+3 safety of students or school personnel, provided the disclosure of
+4 the information does not violate the requirements and provisions of
+5 the Family Educational Rights and Privacy Act of 1974, the Health
+6 Insurance Portability and Accountability Act of 1996, Section 2503
+7 of Title 12 of the Oklahoma Statutes, Section 1376 of Title 59 of
+8 the Oklahoma Statutes, or any other state or federal laws regarding
+9 the disclosure of confidential information; and
+10 16. Contain a statement prohibiting retaliation against a
+11 school employee who notifies the public school district board of
+12 education or the State Department of Education of noncompliance with
+13 the provisions of this section.
+14 B. 1. In developing the policy, the public school district
+15 board of education shall make an effort to involve the teachers,
+16 parents, administrators, school staff, school volunteers, community
+17 representatives, local law enforcement agencies, and students.
+18 2. Before adopting the policy required by this section or any
+19 modifications to the policy, the board of education shall hold at
+20 least one public hearing on the proposed policy or modifications to
+21 the policy. The public hearing may be held as part of a regularly
+22 scheduled board meeting. The board of education shall provide
+23 notice of the public hearing to students and the parents or legal
+24 guardians of students by posting such notice on social media and
+Req. No. 4011 Page 13
+
+1 thro ugh at least one other communication method regularly used by
+2 the board of education.
+3 3. Within thirty (30) days of approving the policy required by
+4 this section or any modifications, the board of education shall
+5 electronically submit a copy to the State Department of Education.
+6 4. The students, teachers, and parents or guardian legal
+7 guardians of every child residing within a school district shall be
+8 notified by the district board of education of its adoption of the
+9 policy and shall receive a copy upon request. The school district
+10 policy shall be implemented in a manner that is ongoing throughout
+11 the school year and is integrated with other violence prevention
+12 efforts.
+13 C. The teacher of a child attending a public school shall have
+14 the same right as a parent or legal guardian to control and
+15 discipline such child according to district policies during the time
+16 the child is in attendance or in transit to or from the school or
+17 any other school function authorized by the school district or
+18 classroom presided over by the teacher.
+19 D. Except concerning students on individualized education plans
+20 programs (IEP) pursuant to the Individuals with Disabilities
+21 Education Act (IDEA), P.L. No. 101-476, the State Board of Education
+22 shall not have authority to prescribe student disciplinary policies
+23 for public school districts or to proscribe corporal punishment in
+24 the public schools. The State Board of Education shall not have
+Req. No. 4011 Page 14
+
+1 auth ority to require school districts to file student disciplinary
+2 action reports more often than once each year and shall not use
+3 disciplinary action reports in determining a school district’s or
+4 school site’s eligibility for program assistance including
+5 competitive grants.
+6 E. The board of education of each public school district in
+7 this state shall have the option of adopting a dress code for
+8 students enrolled in the school district. The board of education of
+9 a school district shall also have the option of adopting a dress
+10 code which includes school uniforms.
+11 F. The board of education of each public school district in
+12 this state shall have the option of adopting a procedure that
+13 requires students to perform campus-site service for violating the
+14 district’s policy.
+15 G. The State Board of Education shall:
+16 1. Promulgate rules for periodically monitoring public school
+17 districts for compliance with this section and providing sanctions
+18 for noncompliance with this section;
+19 2. Establish and maintain a central repository for the
+20 collection of information regarding documented and verified
+21 incidents of bullying; and
+22 3. Publish a report annually on the State Department of
+23 Education website regarding the number of documented and verified
+24 incidents of bullying in the public schools in the state.
+Req. No. 4011 Page 15
+
+1 SECTION 6. This act shall become effective November 1, 2026.
+2
+3 60-2-4011 TEK 4/29/2026 6:53:09 PM
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+Req. No. 4011 Page 16
