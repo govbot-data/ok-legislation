@@ -498,6 +498,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:01:12Z"
+    "logs_latest_update": "2026-07-21T19:01:12Z",
+    "text_extraction_latest_update": "2026-07-22T07:44:40.722265Z"
   }
 }
