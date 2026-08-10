@@ -297,6 +297,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T19:01:12Z"
       }
+    },
+    {
+      "description": "Died in conference",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-10T06:30:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -491,7 +501,7 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:01:12Z",
+    "logs_latest_update": "2026-08-10T06:30:00Z",
     "text_extraction_latest_update": "2026-07-22T10:47:37.477634Z"
   }
 }
